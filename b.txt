@@ -1,5 +1,5 @@
 this is my first created txt document........
-���յ�xа:hello im comming too ah.....
+²¹×ÕµºxÐ°:hello im comming too ah.....
 Im second branch and writed something with ....git is so pretty!!!!!!!!!!!
 Im master branch and wanna say something ..................
 Im master branch and say something...ah....second branch done ..333
@@ -13,4 +13,6 @@ Im master branch and do something............01
 Im test1 branch and do something...............01
 
 Im test2 branch and do something.................01
+
+im github update 01
 
