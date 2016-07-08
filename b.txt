@@ -7,3 +7,4 @@ Im second branch and do something .....................01
 Im test2 branch and do something...............01
 Im second branch and do something .....................02
 Im test2 branch and do something...............02
+Im master branch and do something............01
